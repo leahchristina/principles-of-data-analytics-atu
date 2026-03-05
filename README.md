@@ -12,4 +12,4 @@ This is the reposity for my work on my Principles of Data Analytics module at AT
 
 I recommend using Visual Studio Code and Anaconda to run the notebook.
 
-https://copilot.microsoft.com/shares/XE8yZLSNkE8Zm9RUGauHf
+[Conversation with Gemini on Commit error - to demonstrate Markdown links](https://copilot.microsoft.com/shares/XE8yZLSNkE8Zm9RUGauHf)
