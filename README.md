@@ -4,7 +4,7 @@
 
 Here you will find:
 1. Installation Instructions
-2. Dataset
+2. Dataset & Dependancies
 3. About the Solutions
 
 ## Repository Structure
@@ -12,6 +12,16 @@ Here you will find:
 - `requirements.txt` - Python dependencies required to run the notebook
 - `.gitignore` - Files and folders excluded from version control
 - `README.md` - Project overview and instructions
+
+## Running the Notebook (Installation)
+
+Clone the repository and install the required dependencies:
+
+```bash
+git clone <https://github.com/leahchristina/principles-of-data-analytics-atu.git>
+cd principles-of-data-analytics-atu
+pip install -r requirements.txt
+```
 
 ## Dataset
 This analysis uses the Palmer Penguins dataset loaded from the following repository:
@@ -29,7 +39,6 @@ pip install -r requirements.txt
 ## Environment
 
 I recommend using Visual Studio Code and Anaconda to run the notebook.
-
 
 
 [This README mostly demonstrates the use of Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
