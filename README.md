@@ -4,8 +4,8 @@
 
 Here you will find:
 1. Installation Instructions
-2. Dataset & Dependancies
-3. About the Solutions
+2. Dataset & Environment
+3. About the Solutions (Contents)
 
 ## Repository Structure
 - `problems.ipynb`- Jupyter notebook containing all analysis and explanations
@@ -33,9 +33,9 @@ I recommend using Visual Studio Code and Anaconda to run the notebook.
 
 ## Contents
 
-### Problem 1: Repository creation and setup
-### Problem 2: README file
-### Problem 3: gitignore configuration
+- Problem 1: Repository creation and setup
+- Problem 2: README file
+- Problem 3: gitignore configuration
 - Problem 4: Jupyter notebook setup
 - Problem 5: Loading and describing the Palmer Penguins dataset
 - Problem 6: Visualising data distributions
