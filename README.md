@@ -1,6 +1,6 @@
 # Principles of Data Analytics
 
-**This is the reposity for my solutions to the assessment problems for my Principles of Data Analytics module at [ATU](https://www.atu.ie/courses/higher-diploma-in-science-data-analytics). This work is presented in a Jupyter notebook and demonstrates baisc data analysis, visualation and modelling using Python.**
+**This is the repository for my solutions to the assessment problems for my Principles of Data Analytics module at [ATU](https://www.atu.ie/courses/higher-diploma-in-science-data-analytics). This work is presented in a Jupyter notebook and demonstrates basic data analysis, visualation and modelling using Python.**
 
 Here you will find:
 1. Installation Instructions
@@ -27,37 +27,21 @@ pip install -r requirements.txt
 This analysis uses the Palmer Penguins dataset loaded from the following repository:
 **[Palmer Penguins](https://github.com/ianmcloughlin/principles-of-data-analytics/blob/main/data/penguins.csv)**
 
-
-## Requirements
-
-To run the notebook, install the required Python libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Environment
 
 I recommend using Visual Studio Code and Anaconda to run the notebook.
 
+## Contents
+
+### Problem 1: Repository creation and setup
+### Problem 2: README file
+### Problem 3: gitignore configuration
+- Problem 4: Jupyter notebook setup
+- Problem 5: Loading and describing the Palmer Penguins dataset
+- Problem 6: Visualising data distributions
+- Problem 7: Investigating relationships between variables
+- Problem 8: Modelling the relationship between body mass and bill length
+
+
 
 [This README mostly demonstrates the use of Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
-
-
-> Wise men speak because they have something to say; fools because they have to say something.
->
->*Plato*
-
-Here is some Python code.
-```python
-a = 1
-print(a)
-```
-
-## Installation
-1. Install Git.
-2. Clone this repository.
-3. Enjoy this repository.
-
-
-To demonstrate markdown links, I am using my [conversation with Co-Pilot on a Commit error I got from working on the previous video](https://copilot.microsoft.com/shares/XE8yZLSNkE8Zm9RUGauHf)
