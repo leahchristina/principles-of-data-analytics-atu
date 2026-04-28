@@ -1,0 +1,7 @@
+# Packages required to run the problems notebook
+# pandas
+pandas
+# numpy
+numpy
+# matplotlib
+matplotlib
