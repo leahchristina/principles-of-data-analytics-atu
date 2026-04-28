@@ -24,6 +24,7 @@ To run the notebook, install the required Python libraries:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Environment
 
