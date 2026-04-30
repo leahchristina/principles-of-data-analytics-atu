@@ -5,6 +5,8 @@ pandas
 numpy
 # Statistical data evaluation.
 matplotlib
+# Regression validation. 
+scipy
 # Interactive Python shell.
 ipython
 # Jupyter notebook/lab support.
