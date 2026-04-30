@@ -1,6 +1,6 @@
 # Principles of Data Analytics
 
-**This is the repository for my solutions to the assessment problems for my Principles of Data Analytics module at [ATU](https://www.atu.ie/courses/higher-diploma-in-science-data-analytics). This work is presented in a Jupyter notebook and demonstrates basic data analysis, visualation and modelling using Python.**
+**This is the repository for my solutions to the assessment problems for my Principles of Data Analytics module at [ATU](https://www.atu.ie/courses/higher-diploma-in-science-data-analytics). This work is presented in a Jupyter notebook and demonstrates basic data analysis, visualisation and modelling using Python.**
 
 Here you will find:
 1. Installation Instructions
@@ -34,13 +34,13 @@ I recommend using Visual Studio Code and Anaconda to run the notebook.
 ## Contents
 
 - Problem 1: Repository creation and setup
-- Problem 2: README file
+- Problem 2: README file (you are here)
 - Problem 3: gitignore configuration
 - Problem 4: Jupyter notebook setup
-- Problem 5: Loading and describing the Palmer Penguins dataset
-- Problem 6: Visualising data distributions
-- Problem 7: Investigating relationships between variables
-- Problem 8: Modelling the relationship between body mass and bill length
+- Problem 5: Loading and describing the Palmer Penguins dataset using descriptive statistics
+- Problem 6: Visualising data distributions using histograms and box plots
+- Problem 7: Investigating relationships between body mass and bill length using scatter plots
+- Problem 8: Modelling the relationship between body mass and bill length using linear regression
 
 
 
