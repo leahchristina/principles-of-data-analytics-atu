@@ -7,7 +7,7 @@ numpy
 matplotlib
 # Regression validation. 
 scipy
-# Interactive Python shell.
+# Interactive Python shell (3.13.9)
 ipython
 # Jupyter notebook/lab support.
 ipykernel
