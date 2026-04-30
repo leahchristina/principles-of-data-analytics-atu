@@ -1,7 +1,15 @@
 # Packages required to run the problems notebook
-# pandas
+# Data Frames.
 pandas
-# numpy
+# Numerical arrays.
 numpy
-# matplotlib
+# Statistical data evaluation.
 matplotlib
+# Interactive Python shell.
+ipython
+# Jupyter notebook/lab support.
+ipykernel
+# Jupyter lab.
+jupyterlab
+# Jupyter notebook.
+notebook
